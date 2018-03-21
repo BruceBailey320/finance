@@ -12,12 +12,12 @@
 namespace import_cc
 {
 
-   class Parser
-   {
-   public:
-      Parser();
-      virtual ~Parser();
-   };
+class Parser
+{
+public:
+    Parser();
+    virtual ~Parser();
+};
 
 } /* namespace import_cc */
 
