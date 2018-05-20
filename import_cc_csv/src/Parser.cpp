@@ -10,7 +10,11 @@
 namespace import_cc
 {
 
-Parser::Parser() {}
+    Parser::Parser()
+    {
+    }
 
-Parser::~Parser() {}
+    Parser::~Parser()
+    {
+    }
 } /* namespace import_cc */
